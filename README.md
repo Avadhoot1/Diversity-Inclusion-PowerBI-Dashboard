@@ -66,8 +66,6 @@ The dashboard is designed to help HR teams and leadership understand trends, ide
   Identify opportunities to improve diversity in leadership and hiring.
 
 👤 Author
-(Add your name & contact here if you want)
-E.g.:
 Avadhoot Wamane
 📧 avadhootwamane461@gmail.com 
 🌐 LinkedIn - https://www.linkedin.com/in/avadhoot-wamane/
